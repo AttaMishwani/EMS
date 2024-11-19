@@ -125,24 +125,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
-### Emojis used:
-
-- 🚀 for excitement and launch.
-- 💼 for the admin-related tasks and professionalism.
-- ✅ for completed tasks and task-related features.
-- 📋 for task management.
-- 🔒 for authentication.
-- 📱 for mobile responsiveness.
-- 🛠️ for installation and technical features.
-- ⚛️ for React.
-- 🌈 for styling with Tailwind CSS.
-- 🔄 for Context API.
-- 💾 for localStorage.
-- 📁 for the file structure.
-- 👨‍💼 and 🧑‍💻 for admin and employee roles.
-- ✏️ for task editing.
-- ⏰ for task deadlines.
-- 🔔 for notifications.
-- 🌐 for backend integration.
-- 📄 for licensing.
-
