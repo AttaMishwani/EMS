@@ -1,6 +1,3 @@
-Here’s an updated version of your `README.md` with added emojis to make it more visually engaging:
-
-````markdown
 # Task Management App 🚀
 
 A React-based task management web app designed for managing tasks with different statuses such as "New", "Active", "Completed", and "Failed". The app includes separate dashboards for admins and employees with user authentication. 💼✅
@@ -149,5 +146,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - 🌐 for backend integration.
 - 📄 for licensing.
 
-These emojis can make your `README.md` more engaging and easier to read. Let me know if you'd like any more adjustments!
-```
