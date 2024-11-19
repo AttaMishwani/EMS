@@ -35,10 +35,10 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://npmjs.com/) 
 ### Steps 🛠️
 
 1. Clone the repository:
-   ```bash
+bash
    git clone https://github.com/yourusername/task-management-app.git
-   ```
-````
+   
+
 
 2. Navigate to the project folder:
 
