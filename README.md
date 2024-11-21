@@ -1,9 +1,8 @@
-Here’s an updated version of your `README.md` with added emojis to make it more visually engaging:
-
-````markdown
 # Task Management App 🚀
 
 A React-based task management web app designed for managing tasks with different statuses such as "New", "Active", "Completed", and "Failed". The app includes separate dashboards for admins and employees with user authentication. 💼✅
+
+# Live Link: https://attamishwani.github.io/EMS/
 
 ## Features ✨
 
@@ -38,10 +37,10 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://npmjs.com/) 
 ### Steps 🛠️
 
 1. Clone the repository:
-   ```bash
+bash
    git clone https://github.com/yourusername/task-management-app.git
-   ```
-````
+   
+
 
 2. Navigate to the project folder:
 
@@ -126,28 +125,3 @@ src/
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
-### Emojis used:
-
-- 🚀 for excitement and launch.
-- 💼 for the admin-related tasks and professionalism.
-- ✅ for completed tasks and task-related features.
-- 📋 for task management.
-- 🔒 for authentication.
-- 📱 for mobile responsiveness.
-- 🛠️ for installation and technical features.
-- ⚛️ for React.
-- 🌈 for styling with Tailwind CSS.
-- 🔄 for Context API.
-- 💾 for localStorage.
-- 📁 for the file structure.
-- 👨‍💼 and 🧑‍💻 for admin and employee roles.
-- ✏️ for task editing.
-- ⏰ for task deadlines.
-- 🔔 for notifications.
-- 🌐 for backend integration.
-- 📄 for licensing.
-
-These emojis can make your `README.md` more engaging and easier to read. Let me know if you'd like any more adjustments!
-```
